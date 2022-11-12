@@ -7,6 +7,7 @@ p{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding-bottom: 20px;
 }
 .map{
     padding-top: 40px;
