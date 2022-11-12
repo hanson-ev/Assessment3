@@ -38,6 +38,16 @@ footer{
 }
 
 .bordered{
+    padding-top: 10px;
     border:solid 2px;
-    
+    border-color: darkslateblue;
+
+}
+
+.small-picture{
+    max-width: 60%;
+    max-height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
