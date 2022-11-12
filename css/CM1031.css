@@ -32,3 +32,12 @@ footer{
     color: white;
     padding: 3px;
 }
+
+.pagefooter{
+    padding-top: 30px;
+}
+
+.bordered{
+    border:solid 2px;
+    
+}
