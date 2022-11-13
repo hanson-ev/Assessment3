@@ -83,3 +83,7 @@ td, th {
 tr:nth-child(even) {
     background-color: lightblue;
 }
+
+img{
+    border-radius: 15px;
+}
