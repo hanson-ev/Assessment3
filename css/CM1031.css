@@ -1,5 +1,5 @@
 p{
- padding-top: 20px;  
+ padding-top: 20px;
 }
 
 .logo{
@@ -35,7 +35,7 @@ p{
 
 #tagline{
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
 
 #histtagline{
@@ -89,5 +89,9 @@ img{
 }
 
 body{
-    background-color: aliceblue;
+    background-color:aliceblue;
+}
+
+#visitbody{
+    background-color:aliceblue;
 }
