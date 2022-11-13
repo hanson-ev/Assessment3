@@ -87,3 +87,7 @@ tr:nth-child(even) {
 img{
     border-radius: 15px;
 }
+
+body{
+    background-color: aliceblue;
+}
