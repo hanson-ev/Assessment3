@@ -1,7 +1,7 @@
 p{
- padding-top: 20px;
-    
+ padding-top: 20px;  
 }
+
 .logo{
     padding-top: 20px;
     display: block;
@@ -25,15 +25,21 @@ p{
     margin-left: auto;
     margin-right: auto;
 }
+
 .mapfooter{
     display: block;
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 30px;
 }
+
 #tagline{
     padding-top: 20px;
     padding-bottom: 20px;
+}
+
+#histtagline{
+    padding-bottom: 30px;
 }
 
 footer{
@@ -51,7 +57,6 @@ footer{
     padding-top: 10px;
     border:solid 2px;
     border-color: darkslateblue;
-
 }
 
 .small-picture{
