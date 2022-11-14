@@ -5,7 +5,7 @@ Name: Elizabeth Hanson
 Student ID: 52199055
 
 
-Git Commits found at https://github.com/hanson-ev/Assessment3
+Git Commits found at https://github.com/hanson-ev/Assessment3/commits/master
 
 
 Design:
